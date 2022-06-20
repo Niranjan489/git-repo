@@ -16,3 +16,5 @@ function save_image($inPath,$outPath)
 }
 
 save_image('http://hks-intlgroup.com/images/logo.png','image.jpg');
+
+echo "Hai";
